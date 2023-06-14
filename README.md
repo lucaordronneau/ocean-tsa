@@ -1,4 +1,4 @@
-OCEAN Token Sentiment Analysis Challenge
+# OCEAN Token Sentiment Analysis Challenge
 
 This repository presents an in-depth analysis of the relationship between Twitter sentiment and the price of the OCEAN token, using extensive data from tweets and market prices. It features a comprehensive exploration of correlations between various Twitter engagement metrics and $OCEAN's price. The repository further unveils a dual-model predictive approach employing XGBoost for tabular data and a fine-tuned DistilBERT model for textual data. The culmination is an ensemble model adept at sentiment classification. This repository provides valuable insights into the role of social media sentiment in cryptocurrency market dynamics, offering a valuable tool for data-driven investment strategies.
 
