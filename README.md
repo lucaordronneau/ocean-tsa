@@ -1,6 +1,6 @@
 # OCEAN Token Sentiment Analysis Challenge - Part II
 
-This comprehensive repository presents a novel approach to understanding the dynamics between Twitter engagement and OCEAN token price fluctuations. It introduces the innovative Impact Score, a predictive metric reflecting tweet volume, sentiment, user influence, and future price variation. The report delves into an advanced machine learning model, explores the challenges faced, and offers invaluable actionable insights.
+This repository presents a novel approach to understanding the dynamics between Twitter engagement and OCEAN token price fluctuations. It introduces the innovative Impact Score, a predictive metric reflecting tweet volume, sentiment, user influence, and future price variation. The report delves into an advanced machine learning model, explores the challenges faced, and offers invaluable actionable insights.
 
 Ocean Market
 Report - https://market.oceanprotocol.com/asset/did:op:41b30a08947215853cc160558c62c61a829764b9ebfc316fda96ca071f9ac889
